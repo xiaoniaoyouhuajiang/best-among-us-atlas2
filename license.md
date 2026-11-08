@@ -188,7 +188,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Among Us · Updated 2026-11-07 · Shared under the MIT License*
+*Among Us · Updated 2026-11-08 · Shared under the MIT License*
 
 
-Updated 2026-11-07.
+Updated 2026-11-08.
